@@ -146,14 +146,26 @@ Here are some ideas to get you started:
   <!-- Row 2: Activity & Languages -->
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=bscodecraft&theme=radical&hide_border=true" alt="GitHub Activity Streak" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bscodecraft&theme=dracula&layout=compact&langs_count=8&hide=html,css" alt="Technical Skills Breakdown" /></td>
+    <td> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bscodecraft&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/></td>
   </tr>
   <!-- Row 3: Skills & Productivity -->
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bscodecraft&theme=radical" alt="Technical Skills" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bscodecraft&theme=radical&utcOffset=8" alt="Work Stats" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bscodecraft&theme=radical&utcOffset=5.30" alt="Work Stats" /></td>
   </tr>
 </table>
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
+  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	
+</p>
 
 <!-- FOOTER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
