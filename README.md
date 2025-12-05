@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://komarev.com/ghpvc/?username=bscodecraft&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 <!--
 **bscodecraft/bscodecraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
